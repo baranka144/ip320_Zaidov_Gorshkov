@@ -6,7 +6,7 @@ namespace girPr2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Не первый наш репозиторий гитхаба");
         }
     }
 }
