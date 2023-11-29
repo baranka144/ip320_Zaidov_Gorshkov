@@ -6,7 +6,7 @@ namespace girPr2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Не первый наш репозиторий гитхаба");
+            Console.WriteLine("Заидов Горшков Смирнова Гордеева");
         }
     }
 }
